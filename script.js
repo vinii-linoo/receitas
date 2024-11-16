@@ -6,7 +6,7 @@
     [x] Colocar as receitas na tela
     [x] Saber quando o usuario clicou na recita
     [x] Buscar Informações da receita individual na API
-    [ ] Colocar a receita individual na tela
+    [x] Colocar a receita individual na tela
 */
 
 const form = document.querySelector('.search-form')
